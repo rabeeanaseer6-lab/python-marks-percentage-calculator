@@ -6,11 +6,6 @@ This project is part of my **Python Full Course for Beginners** series on YouTub
 
 ---
 
-## 🎥 Video Tutorial
-📺 Watch the full video here → [Add YouTube Link]
-
-📘 Read the blog post → [Add Blog Link]
-
 ---
 
 ## 🧠 Concepts Covered
@@ -25,4 +20,4 @@ This project is part of my **Python Full Course for Beginners** series on YouTub
 ## 🚀 How to Run
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/python-marks-percentage-calculator.git
+   git clone https://github.com/rabeeanaseer6-lab/python-marks-percentage-calculator.git
